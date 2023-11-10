@@ -4,4 +4,4 @@ A simple script to scrape Amazon product listings from the first page of search 
 
 running instructions:
 
-**npm start**
+<strong>npm start</strong>
